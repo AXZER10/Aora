@@ -17,7 +17,7 @@ const AuthLayout = () => {
           name='sign-up'
           options={{
             headerShown:false
-          }}
+        }}
         />
       </Stack>
       <StatusBar backgroundColor='#1611622'
