@@ -5,6 +5,7 @@ import FormField from '@/components/FormField';
 import { Video, ResizeMode } from 'expo-av';
 import {icons} from '../../constants'
 import CustomButton from '../../components/CustomButton'
+import * as DocumentPicker from 'expo-document-picker'
 
 const Create = () => {
   
@@ -15,6 +16,14 @@ const Create = () => {
     thumbnail:null,
     prompt:''
   })
+
+  const openPicker = async (selectType) => {
+    const result = await DocumentPicker.getDocumentAsync({
+      type: selectType === 'image'
+      ? ['image/png','image/jpg']
+      : ['video/mp4','video/gif']
+    })
+  }
 
   const submit = () => {}
 
@@ -35,7 +44,9 @@ const Create = () => {
           <Text className="text-base text-gray-100 font-pmedium">
             Upload Video
           </Text>
-          <TouchableOpacity activeOpacity={0.6}>
+          <TouchableOpacity activeOpacity={0.6}
+          onPress={() => openPicker("video")}
+          >
             {form.video ? (
               <Video
               source={{uri: form.video.uri}}
@@ -60,7 +71,9 @@ const Create = () => {
         <Text className="text-base text-gray-100 font-pmedium">
             Thumbnail Image
           </Text>
-          <TouchableOpacity activeOpacity={0.6}>
+          <TouchableOpacity activeOpacity={0.6}
+          onPress={() => openPicker("image")}
+          >
             {form.thumbnail ? (
               <Image
               source={{uri:form.thumbnail.uri}}
