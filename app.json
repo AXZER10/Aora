@@ -14,15 +14,16 @@
     },
     "ios": {
       "supportsTablet": true,
-      "package":"com.aora"
+      "package": "com.aora",
+      "bundleIdentifier": "com.anonymous.Expo"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff",
-        "package":"com.aora"
-
-      }
+        "package": "com.aora"
+      },
+      "package": "com.Expo"
     },
     "web": {
       "bundler": "metro",
@@ -35,6 +36,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f48673ee-c839-42d1-9a99-2dbb6bda5d48"
+      }
     }
   }
 }
