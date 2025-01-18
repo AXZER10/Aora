@@ -1,6 +1,6 @@
 # 🚀 React Native Full Stack Application
 
-This repository contains the code for a comprehensive mobile application developed using **React Native**, following the [React Native Course for Beginners in 2024](https://www.youtube.com/watch?v=ZBCUegTZF7M). The application demonstrates key React Native concepts, including navigation, API integration, and state management.
+This repository contains the code for a comprehensive mobile application developed using **React Native**. The application demonstrates key React Native concepts, including navigation, API integration, and state management.
 
 ---
 
