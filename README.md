@@ -24,7 +24,7 @@ This repository contains the code for a comprehensive mobile application develop
 <img src="https://github.com/user-attachments/assets/5ff3790d-698c-4a11-96f9-dbde760f8608" alt="Upload Section" width="300" />
 <img src="https://github.com/user-attachments/assets/3ece81d6-fe80-4088-8639-57aade157787" alt="Profile Section" width="300" />
 
-- **Search Funtionality**
+- **Search Functionality**
 
 <img src="https://github.com/user-attachments/assets/9f356211-6d2b-447d-b211-fd2b365ea674" alt="Search function" width="300" />
 
