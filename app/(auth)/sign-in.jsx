@@ -41,14 +41,14 @@ router.replace("/Home")
     <SafeAreaView className='bg-primary h-full'>
       <ScrollView>
       <View className="w-full min-h-[0vh] items-center justify-center px-4">
-          <Image source={images.logo}
+          <Image source={images.logo2}
             resizeMode='contain'
             className="w-[115]px' h-[35px]"          
           />
       </View>
         <View className="w-full  px-4 my-0">
           <Text className='text-2xl text-white text-semibold mt-10 font-psemibold'>
-            Login to Aora
+            Login to Aurora
           </Text>
           <FormField
             title="Email"
