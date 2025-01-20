@@ -22,3 +22,9 @@ expo-env.d.ts
 .expo
 dist/
 web-build/
+
+#Local
+*.local
+
+#Secrets
+*.env
