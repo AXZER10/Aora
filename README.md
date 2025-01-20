@@ -17,7 +17,16 @@ This repository contains the code for a comprehensive mobile application develop
 
 ## 🌟 Screenshots
 
+<img src="https://github.com/user-attachments/assets/67387a42-f26d-4876-bb88-54d474690dbb" alt="Title Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/ae72e85b-47fc-42c5-b981-e17dbed6b725" alt="Sign Up Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/83f3c83f-3333-4806-9a65-d9fef542b3c9" alt="Home Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/28527da0-3f2f-475c-8f69-4a9d385e7049" alt="Videos Section" width="300" />
+<img src="https://github.com/user-attachments/assets/5ff3790d-698c-4a11-96f9-dbde760f8608" alt="Upload Section" width="300" />
+<img src="https://github.com/user-attachments/assets/3ece81d6-fe80-4088-8639-57aade157787" alt="Profile Section" width="300" />
 
+- **Search Funtionality**
+
+<img src="https://github.com/user-attachments/assets/9f356211-6d2b-447d-b211-fd2b365ea674" alt="Search function" width="300" />
 
 ---
 
