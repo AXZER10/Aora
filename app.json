@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Aurora",
-    "slug": "Aurora",
+    "slug": "aurora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo-small.png",
@@ -42,7 +42,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "f48673ee-c839-42d1-9a99-2dbb6bda5d48"
+        "projectId": "168124ed-502f-407f-892b-2a4d04ae0f41"
       }
     }
   }
