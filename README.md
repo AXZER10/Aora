@@ -1,6 +1,6 @@
 # 🚀 Aurora
 
-This repository contains the code for a comprehensive mobile application developed using **React Native**. The application demonstrates key React Native concepts, including navigation, API integration, and state management.
+This repository contains the code for a comprehensive **Social Media** mobile application developed using **React Native**. The application demonstrates key React Native concepts, including navigation, API integration, and state management. The Application is developed for both iOS and Android.
 
 ---
 
